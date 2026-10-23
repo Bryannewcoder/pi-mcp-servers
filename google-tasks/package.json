@@ -1,0 +1,17 @@
+{
+  "name": "tasks-mcp",
+  "version": "1.0.0",
+  "description": "Model Context Protocol server for Google Tasks — list, add, complete, and delete tasks.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.29.0",
+    "googleapis": "^171.4.0"
+  },
+  "type": "module"
+}
